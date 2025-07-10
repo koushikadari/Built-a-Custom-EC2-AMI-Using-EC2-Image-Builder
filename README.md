@@ -1,4 +1,4 @@
-# Built-a-Custom-EC2-AMI-Using-EC2-Image-Builder
+
 Built a Custom EC2 AMI Using EC2 Image Builder
 🚀 Successfully Built a Custom EC2 AMI Using EC2 Image Builder!
 I recently completed a hands-on project to automate the creation of Amazon Machine Images (AMI) using EC2 Image Builder in AWS. This included designing a pipeline to install Java and AWS CLI automatically, and deploy a reusable, production-ready AMI. Here's what I did:
